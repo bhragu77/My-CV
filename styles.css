@@ -1,0 +1,122 @@
+body{
+    color: #40514E;
+    background-color: rgb(203, 237, 235);
+   text-align: center;
+}
+.giphy-embed{
+    position: relative;
+    left: 20px;
+}
+h1{
+    margin: 50px auto 0 auto;
+    color: rgb(14, 137, 182);
+    font-family:  'Sacramento';
+    font-size: 90px;
+    font-weight: bold;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: rgb(18, 133, 205);
+    padding-bottom: 10px;
+
+
+}
+a{
+    margin: 10px 20px;
+    size: 50px;
+    color: #6ed0dd;
+    font-family:   sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffffff;
+}
+p{
+    line-height: 2;
+}
+.copyright{
+    padding: 10px;
+    color: aliceblue;
+}
+hr{
+    border: dotted #9de4e4 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 80px auto;
+
+}
+.firebase{
+    float: right ;
+    margin-right: 30px;
+}
+.logo{
+     float: left;
+     margin-right: 30px;
+}
+.skill-row{
+    text-align: left;
+    width: 50%;
+   margin: 100px auto  100px auto;
+   
+
+}
+.top-container{
+  text-align: center;
+  position: relative;
+  padding: 50px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+}
+.top-cloud{
+   
+    position:relative;
+    left: 200px;
+}
+.intro{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.middle-container{
+   margin: 0px 0px;
+ 
+}
+.btn {
+    background: #38a6f0;
+    background-image: -webkit-linear-gradient(top, #38a6f0, #0c80c9);
+    background-image: -moz-linear-gradient(top, #38a6f0, #0c80c9);
+    background-image: -ms-linear-gradient(top, #38a6f0, #0c80c9);
+    background-image: -o-linear-gradient(top, #38a6f0, #0c80c9);
+    background-image: linear-gradient(to bottom, #38a6f0, #0c80c9);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3ee0e6;
+    background-image: -webkit-linear-gradient(top, #3ee0e6, #3498db);
+    background-image: -moz-linear-gradient(top, #3ee0e6, #3498db);
+    background-image: -ms-linear-gradient(top, #3ee0e6, #3498db);
+    background-image: -o-linear-gradient(top, #3ee0e6, #3498db);
+    background-image: linear-gradient(to bottom, #3ee0e6, #3498db);
+    text-decoration: none;
+  }
+.bottom-container{
+    padding: 30px;
+   background-color: #27b1b1;
+}
+/*
+hey remmember this css3 button generator*/
+
+
